@@ -1,5 +1,11 @@
 # Structural Breakout & Hysteresis Macro Trend TWAP Bot (cbBTC/USDC)
 
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/liaobode/btc-race-24h-20261123-0511-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/liaobode/btc-race-24h-20261123-0511-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
+Built for [make.fun — Race a BTC trading bot live for 24 hours (`btc-race-24h-20261123-0511`)](https://make.fun/bounty/btc-race-24h-20261123-0511).
+
 A deterministic, long-only `agent-fun/bars-replay/v1` trading bot for `btc-race-24h-20261123-0511` running on Node 22 with zero external dependencies (standard library + vendored `vendor/makefun-bars.ts`).
 
 ## Strategy Architecture
